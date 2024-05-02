@@ -1,0 +1,8 @@
+ipykernel
+
+# local build-index
+wheels/promptflow_rag-0.0b1-py3-none-any.whl
+
+# build-index on cloud
+wheels/azure_ai_ml-1.16.0-py3-none-any.whl
+azureml-rag[langchain,cognitive_search,document_parsing]==0.2.30.2
